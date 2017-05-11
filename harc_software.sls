@@ -1,0 +1,2 @@
+bind-utils:
+  pkg.installed
